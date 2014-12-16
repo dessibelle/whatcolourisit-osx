@@ -12,20 +12,24 @@
 	<dict>
 		<key>9F1FBFA23551FE28D12A140AD44A2A5DE6F3188C</key>
 		<string>github.com:dessibelle/Blue-Screen-Saver.git</string>
+		<key>E5E6CCDBD288CB01A9D050D8C605B915AE2FF256</key>
+		<string>github.com:dessibelle/whatcolourisit-osx</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>What Colour Is It.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>9F1FBFA23551FE28D12A140AD44A2A5DE6F3188C</key>
+		<string>../../../Blue%20Screen%20Saver</string>
+		<key>E5E6CCDBD288CB01A9D050D8C605B915AE2FF256</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:dessibelle/Blue-Screen-Saver.git</string>
+	<string>github.com:dessibelle/whatcolourisit-osx</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>9F1FBFA23551FE28D12A140AD44A2A5DE6F3188C</string>
+	<string>E5E6CCDBD288CB01A9D050D8C605B915AE2FF256</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>9F1FBFA23551FE28D12A140AD44A2A5DE6F3188C</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Blue%20Screen%20Saver</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E5E6CCDBD288CB01A9D050D8C605B915AE2FF256</string>
+			<key>IDESourceControlWCCName</key>
+			<string>What-Colour-Is-It</string>
 		</dict>
 	</array>
 </dict>

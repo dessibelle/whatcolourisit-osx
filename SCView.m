@@ -25,9 +25,9 @@ alpha:1.0]
 		
 		NSString *bundleIdentifier = [[NSBundle bundleForClass:[self class]] infoDictionary][@"CFBundleIdentifier"];
 		self.defaults = [ScreenSaverDefaults defaultsForModuleWithName:bundleIdentifier];
-		
-        self.timeFont = [NSFont fontWithName:@"HelveticaNeue-Light" size:172.0];
-        self.colorFont = [NSFont fontWithName:@"HelveticaNeue-UltraLight" size:48.0];
+        
+        self.timeFont = [NSFont fontWithName:@"HelveticaNeue-Light" size:frame.size.height * 0.2];
+        self.colorFont = [NSFont fontWithName:@"HelveticaNeue-UltraLight" size:frame.size.height * 0.05];
 		
 		self.timeDrawingAttributes = @{NSFontAttributeName: self.timeFont,
 								   NSForegroundColorAttributeName: [NSColor whiteColor]};
