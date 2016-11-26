@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E5E6CCDBD288CB01A9D050D8C605B915AE2FF256",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E5E6CCDBD288CB01A9D050D8C605B915AE2FF256" : 0,
+    "9F1FBFA23551FE28D12A140AD44A2A5DE6F3188C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9B0890AF-7CCD-4F49-AC88-D68010F4531B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E5E6CCDBD288CB01A9D050D8C605B915AE2FF256" : "What-Colour-Is-It",
+    "9F1FBFA23551FE28D12A140AD44A2A5DE6F3188C" : "Blue%20Screen%20Saver"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "What Colour Is It",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "What Colour Is It.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:dessibelle\/Blue-Screen-Saver.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F1FBFA23551FE28D12A140AD44A2A5DE6F3188C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:dessibelle\/whatcolourisit-osx",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E5E6CCDBD288CB01A9D050D8C605B915AE2FF256"
+    }
+  ]
+}
